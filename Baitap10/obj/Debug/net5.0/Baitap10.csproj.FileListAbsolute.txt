@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.exe
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.deps.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\ref\Baitap10.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\bin\Debug\net5.0\Baitap10.pdb
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\ref\Baitap10.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.pdb
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap10\obj\Debug\net5.0\Baitap10.genruntimeconfig.cache

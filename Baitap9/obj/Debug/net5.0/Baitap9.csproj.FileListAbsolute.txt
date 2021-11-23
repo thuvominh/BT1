@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.exe
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.deps.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\ref\Baitap9.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\bin\Debug\net5.0\Baitap9.pdb
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\ref\Baitap9.dll
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.pdb
+C:\Users\LENOVO\RiderProjects\Baitap1\Baitap9\obj\Debug\net5.0\Baitap9.genruntimeconfig.cache
